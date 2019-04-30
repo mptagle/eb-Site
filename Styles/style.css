@@ -1,0 +1,25 @@
+body{
+  background-color:lightblue;
+}
+h1{
+  color:midnightblue;
+}
+h2{
+  color:midnightblue;
+}
+p{
+  color:midnightblue;
+}
+#special_p{
+  color:darkslategrey;
+}
+.front_page{
+  font-style: italic;
+  background-color:orange;
+}
+ol{
+  color:midnightblue;
+}
+ul{
+  color:midnightblue;
+}

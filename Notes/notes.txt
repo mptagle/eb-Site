@@ -1,0 +1,20 @@
+No ocupar mayúscula en nombre de archivos (por convención)
+El punto azul de arriba a la derecha, dice que son cambios no guardados. Se guarda con cmd+S
+En el caso de lo que va entre >jhk<, puede ir con espacio.
+PAra ver pagina web en Atom, ir a "Atom" --> preferences --> install "open in browser"
+Contenido que va en head, lo ocupa el navegador
+"Meta charset sirve para corregir caracteres como Ñ y tildes"
+Ingresar el línea 8 p y enter y da <p> (p es de párrafo) (h es de head)
+Ingresar en nueva línea 8 h (h1 es más grande, que sea solo 1 por sitio
+"a" son anchortag (link). En parte verde, es a dónde nos lleva real y en > es lo que dice<
+"img" es imagen y tiene etiquetas sin cierre, porque no tiene contenido.
+Buscar imagen y poner "copiar dirección de imagen" en la parte verde.
+CSS: cascade style sheets para darle diseño. lo pongo en body dentro de <> con "style="fksfjhgf">
+Es mejor tener separadas las cosas, cuerpo y estilo. Mientras más desacoplado, más fácil el cambio.
+Esto, con refactorización: mismo funcionamiento, con código menos complejos
+"style y después body {acá pegamos background color}"
+Colores: https://www.w3schools.com/cssref/css_colors.asp
+Atributo 2: class (podemos seleccionarlos para darles estilo)
+Sirve para seleccionar más de uno, aplicar cambios a todo un grupo.
+class se selecciona con punto (.) para llevarlo a style, así como id se lleva con gato
+En la página web, si uno hace clic derecho sobre un elemento, ponemos "inspeccionar elemento" y nos muestra el código y su información.
